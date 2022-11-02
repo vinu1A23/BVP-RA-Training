@@ -5,5 +5,5 @@ Training material and assignments for the students conducted during the Machine 
 
 ### Weeks Done
 - [X] Python
-- [ ] Machine Learning
-- [ ] Deep Learning
+- [X] Machine Learning
+- [X] Deep Learning
